@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+<!-- 这是侧边栏 -->
 
 * [序](/README.md)
 * [目录](/guide.md)
